@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: grid;
+}
+.loginPage{
+  padding: 24px;
+  text-align: start;
+
+  label, input{
+    margin: 10px 0px;
+  }
+}
+
+.dashboardPage{
+  padding: 24px;
+  text-align: start;
+
+  label, input, select{
+    margin-bottom: 10px;
+  }
+}

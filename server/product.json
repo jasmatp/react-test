@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "description": "Cotton round-neck T-shirt",
+      "price": 499
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "description": "Slim fit denim jeans",
+      "price": 999
+    }
+  ]
+  
